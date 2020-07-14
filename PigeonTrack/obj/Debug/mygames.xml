@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <GameName>A</GameName>
+    <Gameprice>A</Gameprice>
+    <DeveloperName>A</DeveloperName>
+    <GamePlatform>Xbox</GamePlatform>
+    <GameGenre>Racing</GameGenre>
+    <GameRating>General (G)</GameRating>
+  </Game>
+</ArrayOfGame>
