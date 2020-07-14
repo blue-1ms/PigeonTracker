@@ -1,6 +1,6 @@
 # PigeonTracker
 <p>
-    <b>A C# Program to help keep track of your owned games :P </b>
+    <b>A C# Program to help keep track of your owned games :P (made in 2018 so needs update) </b>
 </p>
 
 ![GitHub](https://img.shields.io/github/license/blue-1ms/PigeonTracker)
